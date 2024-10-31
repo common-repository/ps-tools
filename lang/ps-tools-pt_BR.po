@@ -1,0 +1,587 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: tinymce/window.php:63
+#: tinymce/window.php:293
+#@ ps-tools
+msgid "3D Rotate Tool (K)"
+msgstr "Giro 3D (K)"
+
+#: tinymce/window.php:16
+#@ post-snippets
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: tinymce/window.php:66
+#: tinymce/window.php:294
+#@ ps-tools
+msgid "3D Roll Tool (K)"
+msgstr "Rolagem 3D (K)"
+
+#: tinymce/window.php:69
+#: tinymce/window.php:295
+#@ ps-tools
+msgid "3D Pan Tool (K)"
+msgstr "Deslocamento 3D (K)"
+
+#: tinymce/window.php:72
+#: tinymce/window.php:296
+#@ ps-tools
+msgid "3D Slide Tool (K)"
+msgstr "Slide 3D (K)"
+
+#: tinymce/window.php:75
+#: tinymce/window.php:297
+#@ ps-tools
+msgid "3D Scale Tool (K)"
+msgstr "Escala 3D (K)"
+
+#: tinymce/window.php:78
+#: tinymce/window.php:298
+#@ ps-tools
+msgid "3D Orbit Tool (N)"
+msgstr "Órbita 3D (N)"
+
+#: tinymce/window.php:81
+#: tinymce/window.php:299
+#@ ps-tools
+msgid "3D Roll View Tool (N)"
+msgstr "Exibição de rolagem 3D (N)"
+
+#: tinymce/window.php:84
+#: tinymce/window.php:300
+#@ ps-tools
+msgid "3D Pan View Tool (N)"
+msgstr "Exibição de deslocamento 3D (N)"
+
+#: tinymce/window.php:87
+#: tinymce/window.php:301
+#@ ps-tools
+msgid "3D Walk View Tool (N)"
+msgstr "Exibição de movimentação 3D (N)"
+
+#: tinymce/window.php:90
+#: tinymce/window.php:302
+#@ ps-tools
+msgid "3D Zoom Tool (N)"
+msgstr "Exibição de zoom 3D (N)"
+
+#: tinymce/window.php:93
+#: tinymce/window.php:303
+#@ ps-tools
+msgid "Add Anchor Point"
+msgstr "Adicionar ponto de ancoragem"
+
+#: tinymce/window.php:96
+#: tinymce/window.php:304
+#@ ps-tools
+msgid "Art History Brush (Y)"
+msgstr "Pincel história da arte (Y)"
+
+#: tinymce/window.php:99
+#: tinymce/window.php:305
+#@ ps-tools
+msgid "Audio Annotation (N)"
+msgstr "Observação em Áudio (N)"
+
+#: tinymce/window.php:102
+#: tinymce/window.php:306
+#@ ps-tools
+msgid "Background Eraser (E)"
+msgstr "Borracha de plano de fundo (E)"
+
+#: tinymce/window.php:105
+#: tinymce/window.php:307
+#@ ps-tools
+msgid "Blur (R)"
+msgstr "Desfoque"
+
+#: tinymce/window.php:108
+#: tinymce/window.php:308
+#@ ps-tools
+msgid "Brush Tool (B)"
+msgstr "Pincel (B)"
+
+#: tinymce/window.php:111
+#: tinymce/window.php:309
+#@ ps-tools
+msgid "Burn Tool (O)"
+msgstr "Subexposição (O)"
+
+#: tinymce/window.php:114
+#: tinymce/window.php:310
+#@ ps-tools
+msgid "Clone Stamp (S)"
+msgstr "Carimbo (S)"
+
+#: tinymce/window.php:117
+#: tinymce/window.php:311
+#@ ps-tools
+msgid "Color Sampler (I)"
+msgstr "Classificador de cores (I)"
+
+#: tinymce/window.php:120
+#: tinymce/window.php:312
+#@ ps-tools
+msgid "Color Replacement (B)"
+msgstr "Substituição de cor (B)"
+
+#: tinymce/window.php:123
+#: tinymce/window.php:313
+#@ ps-tools
+msgid "Convert Anchor Point"
+msgstr "Converter ponto"
+
+#: tinymce/window.php:129
+#: tinymce/window.php:315
+#@ ps-tools
+msgid "Crop (C)"
+msgstr "Corte demarcado (C)"
+
+#: tinymce/window.php:132
+#: tinymce/window.php:316
+#@ ps-tools
+msgid "Custom Shape (U)"
+msgstr "Forma personalizada (U)"
+
+#: tinymce/window.php:135
+#: tinymce/window.php:317
+#@ ps-tools
+msgid "Delete Anchor Point"
+msgstr "Excluir ponto de ancoragem"
+
+#: tinymce/window.php:138
+#: tinymce/window.php:318
+#@ ps-tools
+msgid "Direct Selection (A)"
+msgstr "Seleção direta (A)"
+
+#: tinymce/window.php:141
+#: tinymce/window.php:319
+#@ ps-tools
+msgid "Dodge(O)"
+msgstr "Superexposição (O)"
+
+#: tinymce/window.php:144
+#: tinymce/window.php:320
+#@ ps-tools
+msgid "Ellipse (U)"
+msgstr "Elipse (U)"
+
+#: tinymce/window.php:147
+#: tinymce/window.php:321
+#@ ps-tools
+msgid "Elliptical Marquee (M)"
+msgstr "Letreiro elíptico (M)"
+
+#: tinymce/window.php:150
+#: tinymce/window.php:322
+#@ ps-tools
+msgid "Eraser (E)"
+msgstr "Borracha (E)"
+
+#: tinymce/window.php:153
+#: tinymce/window.php:323
+#@ ps-tools
+msgid "Eyedropper (I)"
+msgstr "Conta-gotas (I)"
+
+#: tinymce/window.php:156
+#: tinymce/window.php:324
+#@ ps-tools
+msgid "Freeform Pen (P)"
+msgstr "Caneta de forma livre (P)"
+
+#: tinymce/window.php:159
+#: tinymce/window.php:325
+#@ ps-tools
+msgid "Gradient (G)"
+msgstr "Gradiente (G)"
+
+#: tinymce/window.php:162
+#: tinymce/window.php:326
+#@ ps-tools
+msgid "Hand (H)"
+msgstr "Mão (H)"
+
+#: tinymce/window.php:165
+#: tinymce/window.php:327
+#@ ps-tools
+msgid "Healing Brush (J)"
+msgstr "Pincel de recuperação (J)"
+
+#: tinymce/window.php:168
+#: tinymce/window.php:328
+#@ ps-tools
+msgid "History Brush (Y)"
+msgstr "Pincel do histórico (Y)"
+
+#: tinymce/window.php:171
+#: tinymce/window.php:329
+#@ ps-tools
+msgid "Horizontal Type (T)"
+msgstr "Texto horizontal (T)"
+
+#: tinymce/window.php:174
+#: tinymce/window.php:330
+#@ ps-tools
+msgid "Horizontal Type Mask (T)"
+msgstr "Máscara de texto horizontal (T)"
+
+#: tinymce/window.php:177
+#: tinymce/window.php:331
+#@ ps-tools
+msgid "Lasso (L)"
+msgstr "Laço (L)"
+
+#: tinymce/window.php:180
+#: tinymce/window.php:332
+#@ ps-tools
+msgid "Line (U)"
+msgstr "Linha (U)"
+
+#: tinymce/window.php:183
+#: tinymce/window.php:333
+#@ ps-tools
+msgid "Magnetic Lasso (L)"
+msgstr "Laço magnético (L)"
+
+#: tinymce/window.php:186
+#: tinymce/window.php:334
+#@ ps-tools
+msgid "Magic Wand (W)"
+msgstr "Seleção rápida (W)"
+
+#: tinymce/window.php:189
+#: tinymce/window.php:335
+#@ ps-tools
+msgid "Magic Eraser (E)"
+msgstr "Borracha mágica (E)"
+
+#: tinymce/window.php:192
+#: tinymce/window.php:336
+#@ ps-tools
+msgid "Move Tool (V)"
+msgstr "Mover (V)"
+
+#: tinymce/window.php:198
+#: tinymce/window.php:338
+#@ ps-tools
+msgid "Paint Bucket (G)"
+msgstr "Lata de tinta (G)"
+
+#: tinymce/window.php:201
+#: tinymce/window.php:339
+#@ ps-tools
+msgid "Patch (J)"
+msgstr "Correção (J)"
+
+#: tinymce/window.php:204
+#: tinymce/window.php:340
+#@ ps-tools
+msgid "Path Selection (A)"
+msgstr "Seleção direta (A)"
+
+#: tinymce/window.php:207
+#: tinymce/window.php:341
+#@ ps-tools
+msgid "Pattern Stamp (S)"
+msgstr "Carimbo de padrão (S)"
+
+#: tinymce/window.php:210
+#: tinymce/window.php:342
+#@ ps-tools
+msgid "Pen (P)"
+msgstr "Caneta (P)"
+
+#: tinymce/window.php:213
+#: tinymce/window.php:343
+#@ ps-tools
+msgid "Pencil (B)"
+msgstr "Lápis (B)"
+
+#: tinymce/window.php:216
+#: tinymce/window.php:344
+#@ ps-tools
+msgid "Polygonal Lasso(L)"
+msgstr "Laço poligonal (L)"
+
+#: tinymce/window.php:219
+#: tinymce/window.php:345
+#@ ps-tools
+msgid "Polygon (U)"
+msgstr "Polígono (U)"
+
+#: tinymce/window.php:222
+#: tinymce/window.php:346
+#@ ps-tools
+msgid "Quick Selection (W)"
+msgstr "Seleção rápida (W)"
+
+#: tinymce/window.php:225
+#: tinymce/window.php:347
+#@ ps-tools
+msgid "Rectangular Marquee Tool"
+msgstr "Letreiro retangular (M)"
+
+#: tinymce/window.php:228
+#: tinymce/window.php:348
+#@ ps-tools
+msgid "Rectangle (U)"
+msgstr "Retângulo (U)"
+
+#: tinymce/window.php:231
+#: tinymce/window.php:349
+#@ ps-tools
+msgid "Red Eye (J)"
+msgstr "Olhos vermelhos (J)"
+
+#: tinymce/window.php:234
+#: tinymce/window.php:350
+#@ ps-tools
+msgid "Rounded Rectangle (U)"
+msgstr "Retângulo arredondado (U)"
+
+#: tinymce/window.php:237
+#: tinymce/window.php:351
+#@ ps-tools
+msgid "Rotate View Tool (R)"
+msgstr "Girar visualização (R)"
+
+#: tinymce/window.php:240
+#: tinymce/window.php:352
+#@ ps-tools
+msgid "Ruler Tool (I)"
+msgstr "Régua (I)"
+
+#: tinymce/window.php:243
+#: tinymce/window.php:353
+#@ ps-tools
+msgid "Sharpen (R)"
+msgstr "Tornar nítido"
+
+#: tinymce/window.php:246
+#: tinymce/window.php:354
+#@ ps-tools
+msgid "Single Column Marquee"
+msgstr "Letreiro de coluna única"
+
+#: tinymce/window.php:249
+#: tinymce/window.php:355
+#@ ps-tools
+msgid "Single Row Marquee"
+msgstr "Letreiro de linha única"
+
+#: tinymce/window.php:252
+#: tinymce/window.php:356
+#@ ps-tools
+msgid "Slice (K)"
+msgstr "Fatia (C)"
+
+#: tinymce/window.php:255
+#: tinymce/window.php:357
+#@ ps-tools
+msgid "Slice Select"
+msgstr "Seleção de fatia (C)"
+
+#: tinymce/window.php:258
+#: tinymce/window.php:358
+#@ ps-tools
+msgid "Smudge (R)"
+msgstr "Borrar"
+
+#: tinymce/window.php:261
+#: tinymce/window.php:359
+#@ ps-tools
+msgid "Sponge (O)"
+msgstr "Esponja (O)"
+
+#: tinymce/window.php:264
+#: tinymce/window.php:360
+#@ ps-tools
+msgid "Spot Healing Brush (J)"
+msgstr "Pincel de recuperação para manchas (J)"
+
+#: tinymce/window.php:267
+#: tinymce/window.php:361
+#@ ps-tools
+msgid "Vertical Type (T)"
+msgstr "Texto vertical (T)"
+
+#: tinymce/window.php:270
+#: tinymce/window.php:362
+#@ ps-tools
+msgid "Vertical Type Mask (T)"
+msgstr "Máscara de texto vertical (T)"
+
+#: tinymce/window.php:273
+#: tinymce/window.php:363
+#@ ps-tools
+msgid "Zoom (Z)"
+msgstr "Zoom (Z)"
+
+#: control/info.php:7
+#@ ps-tools
+msgid "About PS Tools"
+msgstr "Sobre o PS Tools"
+
+#: control/info.php:9
+#@ ps-tools
+msgid "<strong>PS Tools</strong> allows you insert a reference for any Adobe&reg; Photoshop&reg; tool in posts and pages."
+msgstr "<strong>PS Tools</strong> permite inserir referências a qualquer ferramenta do software Adobe&reg; Photoshop&reg; em seus posts e páginas."
+
+#: control/info.php:10
+#@ ps-tools
+msgid "By using PS Tools, you will not need to write up the same reference everytime, what is very boring and time consuming, you just need to select the tool and insert in your text."
+msgstr "Ao usar o PS Tools, você não precisará escrever as referência toda vez, o que é meio chato e consome tempo, você só precisa selecionar a ferramenta que quer referenciar no seu texto."
+
+#: control/info.php:11
+#@ ps-tools
+msgid "You also can style the output, changing font and color, anytime."
+msgstr "Você também pode mudar o estilo das referência, mudando cores e fontes."
+
+#: control/info.php:16
+#@ ps-tools
+msgid "Notes & Features"
+msgstr "Notas & Recursos"
+
+#: control/info.php:19
+#@ ps-tools
+msgid "Your current WordPress language is"
+msgstr "O idioma do seu WrodPress atualmente é"
+
+#: control/info.php:21
+#@ ps-tools
+msgid "In HTML mode, you will see the tool name and icon inside <code>span</code> tags. If you want use you own icons, send/change the files in:"
+msgstr "No modo HTML, você verá a imagem e o nome da ferramente dentro de tags <code>span</code>. Se quiser usar seus p'roprios ícones, envie/modifique imagens em:"
+
+#: control/info.php:23
+#@ ps-tools
+msgid "If you want to change the output style, edit the stylesheet:"
+msgstr "Se quiser mudar o estilo como cada ferramenta aparece, edite a folha de estilo:"
+
+#: control/info.php:26
+#@ ps-tools
+msgid "PS Tools do insert HTML tags and images in your text, not shortcodes! If you deactive the plugin, all images will display as long as you keep the plugin folder. If so, append the PS Tools CSS classes in your theme stylesheet for keep the output style working as well."
+msgstr "O PS Tools insere tags HTML e imagens em seu texto, não shortcodes! Se decidir desativar o plugin, todas as imagens ainda serão visíveis enquanto manter a pasta do plugin. Se for assim, adicione o CSS do PS Tools à folha de estilos do seu tema para que os estilos também funcionem."
+
+#: control/info.php:27
+#@ ps-tools
+msgid "If you find that when you start to type after insert some reference, the text gets inside the tool <code>span</code> tag, please try clicking the editor area before type, or insert the reference between sentences. Also, you can check the HTML output if needed."
+msgstr "Se logo depois de inserir uma ferramenta, o texto digitado ficar dentro da  tag <code>span</code> da ferramenta, por favor, logo após inserir uma referência, clique na área de edição antes de recomçar a digitar. Você também pode verificar o HTML se necessário."
+
+#: control/info.php:28
+#@ ps-tools
+msgid "PS Tools currently refer to Adobe&reg; Photoshop&reg; CS4 Extended. If some tool is missing, please send me an <a href=\"mailto:dianakac@gmail.com?subject=PS Tools plugin - tools missing\">e-mail</a>."
+msgstr "O PS Tools atualmente faz referência ao Adobe&reg; Photoshop&reg; CS4 Extended. Se alguma ferramenta estiver faltando, por favor me envie um <a href=\"mailto:dianakac@gmail.com?subject=PS Tools plugin - ferramenta faltando\">email</a>."
+
+#: control/info.php:31
+#@ ps-tools
+msgid "How to use"
+msgstr "Como usar"
+
+#: control/info.php:33
+#@ ps-tools
+msgid "After install, edit a post or page in Visual mode."
+msgstr "Depois de instalar, edite um post ou página no modo Visual."
+
+#: control/info.php:34
+#@ ps-tools
+msgid "Write your text as usual then click the PS Tool button where you want insert a tool reference."
+msgstr "Escreva seu texto como de costume e então clique no botão PS Tools, onde quer inserir uma referência."
+
+#: control/info.php:39
+#@ ps-tools
+msgid "Support & Contact"
+msgstr "Suporte & Contato"
+
+#: control/info.php:41
+#@ ps-tools
+msgid "Plugin Website:"
+msgstr "Site:"
+
+#: control/info.php:43
+#@ ps-tools
+msgid "Donations"
+msgstr "Doações"
+
+#: control/info.php:44
+#@ ps-tools
+msgid "Have you using this plugin a lot? Consider make a donation. Also, you can send me translations files, improvements etc."
+msgstr "Você tem usado bastante esse plugin? Considere fazer uma doação. Além disso, também poderá enviar traduções, melhorias etc."
+
+#: control/info.php:52
+#@ ps-tools
+msgid "PayPal - The safer, easier way to pay online!"
+msgstr "PayPal - O modo mais seguro e fácil de pagar online!"
+
+#: tinymce/window.php:289
+#@ ps-tools
+msgid "Choose a tool refer then click <em>Insert</em>:"
+msgstr "Escolha uma ferramenta e clique em <em>Inserir</em>:"
+
+#: tinymce/window.php:369
+#@ ps-tools
+msgid "Insert"
+msgstr "Inserir"
+
+#: tinymce/window.php:369
+#@ ps-tools
+msgid "Close"
+msgstr "Fechar"
+
+#: tinymce/window.php:126
+#: tinymce/window.php:314
+#@ ps-tools
+msgid "Count (I)"
+msgstr "Contagem (I)"
+
+#: tinymce/window.php:195
+#: tinymce/window.php:337
+#@ ps-tools
+msgid "Notes (N)"
+msgstr "Observação (I)"
+
+#: control/info.php:14
+#@ ps-tools
+msgid "are trademarks of Adobe Systems Incorporated"
+msgstr "são marcas registradas da Adobe Systems Incorporated"
+
+#: control/info.php:18
+#@ ps-tools
+msgid "If a translation file is available, you can use PS Tools referencing Photoshop&reg; in your language, but please note: if you decide to use your language after sometime using this plugin, <strong>the old references will not be translated</strong>."
+msgstr "Se houver uma tradução disponível você pode usar PS Tools referenciando ferramentas do Photoshop&reg; em seu idioma, mas atenção: se decidir usar outro idioma depois de já ter usado referências em inglês,  <strong>as referências antigas não serão traduzidas</strong>."
+
+#: control/info.php:35
+#@ ps-tools
+msgid "Click the tool reference you want insert and click Insert."
+msgstr "Clique na ferramenta que quer referenciar então clique Inserir."
+
+#: control/info.php:36
+#@ ps-tools
+msgid "The reference is inserted and depicts the tool button image and name."
+msgstr "A referência é inserida e mostra a imagem da ferramenta e seu nome."
+
+#: control/info.php:40
+#@ ps-tools
+msgid "Send me an <a href=\"mailto:dianakac@gmail.com?subject=About PS Tools Plugin\">e-mail</a> anytime. You can also reach me at my <a href=\"http://arquivo.tk\" _target=\"_blank\" >website</a>"
+msgstr "Envie-me um <a href=\"mailto:dianakac@gmail.com?subject=Sobre o PS Tools\">email</a> a qualquer hora. Você também pode me achar no meu <a href=\"http://arquivo.tk\" _target=\"_blank\" >website</a>"
+

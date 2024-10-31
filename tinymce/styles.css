@@ -1,0 +1,18 @@
+/* Here you can change the output*/
+
+
+.ps-tools, #select_shortcode{ /* Set font for both output and selection window, i.e. output and window font style matches */
+  padding:0;margin:0;
+  font-family:arial;
+  font-weight: bold ;
+  font-size:12px;
+}
+
+.ps-tools img{ /* styling the images */
+  padding:1px;
+  margin:0 4px 0 0;
+  vertical-align: top;
+  background:#EAEAEA;
+  border-radius:3px; 	-moz-border-radius:3px;
+  -moz-box-shadow:1px 1px 0px rgba(10,2,0,0.3);
+}

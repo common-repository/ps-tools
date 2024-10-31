@@ -1,0 +1,87 @@
+/* Here stay the window style */
+
+.my-shortcode fieldset {padding:15px!important; border:1px solid #C0C0C0 !important; border-radius:6px; -webkit-border-radius:6px; -khtml-border-radius:6px; -moz-border-radius:6px; }
+.my-shortcode fieldset legend{font-size:12px; font-weight: normal;}
+.my-shortcode .insert_buttom{ float:right;}
+.my-shortcode #insert.disabled { color: #ccc;}
+.my-shortcode #select_shortcode{position:relative;}
+.my-shortcode #cancel {position:absolute; right:24px;}
+.my-shortcode #my-shortcode-box select{height:300px; width:100%;}
+.my-shortcode #select_shortcode .separador{margin-left:0px; background:#EFEFEF; margin-top:5px; border-bottom:#D5D5D5 solid 1px;}
+.my-shortcode select {margin-bottom:15px; font: 12px "Trebuchet MS", Arial, Helvetica, sans-serif;}
+.my-shortcode #my-shortcode-buttom{position:relative; top:15px;}
+.my-shortcode #my-shortcode-buttom .insert_buttom{position:absolute; right:0px; top:-10px;}
+.my-shortcode #my-shortcode-buttom select{ margin-top:-5px;}
+#select_shortcode option{padding:2px 2px 2px 25px}
+
+.ps-3d-orbit {background:url(img/3d-orbit.gif) no-repeat left; }
+.ps-3d-pan{background:url(img/3d-pan.gif) no-repeat left; }
+.ps-3d-pan-view{background:url(img/3d-pan-view.gif) no-repeat left; }
+.ps-3d-roll{background:url(img/3d-roll.gif) no-repeat left; }
+.ps-3d-roll-view{background:url(img/3d-roll-view.gif) no-repeat left; }
+.ps-3d-rotate{background:url(img/3d-rotate.gif) no-repeat left; }
+.ps-3d-scale{background:url(img/3d-scale.gif) no-repeat left; }
+.ps-3d-slide{background:url(img/3d-slide.gif) no-repeat left; }
+.ps-3d-walk-view{background:url(img/3d-walk-view.gif) no-repeat left; }
+.ps-3d-zoom-view{background:url(img/3d-zoom-view.gif) no-repeat left; }
+.ps-add_anchor{background:url(img/add_anchor.gif) no-repeat left; }
+.ps-art_history{background:url(img/art_history.gif) no-repeat left; }
+.ps-audio{background:url(img/audio.gif) no-repeat left; }
+.ps-back_eraser{background:url(img/back_eraser.gif) no-repeat left; }
+.ps-blur{background:url(img/blur.gif) no-repeat left; }
+.ps-brush{background:url(img/brush.gif) no-repeat left; }
+.ps-burn{background:url(img/burn.gif) no-repeat left; }
+.ps-clone{background:url(img/clone.gif) no-repeat left; }
+.ps-color{background:url(img/color.gif) no-repeat left; }
+.ps-color_replace{background:url(img/color_replace.gif) no-repeat left; }
+.ps-convert_point{background:url(img/convert_point.gif) no-repeat left; }
+.ps-count{background:url(img/count.gif) no-repeat left; }
+.ps-crop{background:url(img/crop.gif) no-repeat left; }
+.ps-custom{background:url(img/custom.gif) no-repeat left; }
+.ps-delete_anchor{background:url(img/delete_anchor.gif) no-repeat left; }
+.ps-direct_select{background:url(img/direct_select.gif) no-repeat left; }
+.ps-dodge{background:url(img/dodge.gif) no-repeat left; }
+.ps-ellipse{background:url(img/ellipse.gif) no-repeat left; }
+.ps-ellipt_marquee{background:url(img/ellipt_marquee.gif) no-repeat left; }
+.ps-eraser{background:url(img/eraser.gif) no-repeat left; }
+.ps-eye_dropper{background:url(img/eye_dropper.gif) no-repeat left; }
+.ps-freeform{background:url(img/freeform.gif) no-repeat left; }
+.ps-gradient{background:url(img/gradient.gif) no-repeat left; }
+.ps-hand{background:url(img/hand.gif) no-repeat left; }
+.ps-healing{background:url(img/healing.gif) no-repeat left; }
+.ps-history_brush{background:url(img/history_brush.gif) no-repeat left; }
+.ps-horiz_text{background:url(img/horiz_text.gif) no-repeat left; }
+.ps-horiz_type_mask{background:url(img/horiz_type_mask.gif) no-repeat left; }
+.ps-lasso{background:url(img/lasso.gif) no-repeat left; }
+.ps-line{background:url(img/line.gif) no-repeat left; }
+.ps-magic{background:url(img/magic.gif) no-repeat left; }
+.ps-magic_eraser{background:url(img/magic_eraser.gif) no-repeat left; }
+.ps-mag_lasso{background:url(img/mag_lasso.gif) no-repeat left; }
+.ps-move{background:url(img/move.gif) no-repeat left; }
+.ps-notes{background:url(img/notes.gif) no-repeat left; }
+.ps-paint_bucket{background:url(img/paint_bucket.gif) no-repeat left; }
+.ps-patch{background:url(img/patch.gif) no-repeat left; }
+.ps-path_select{background:url(img/path_select.gif) no-repeat left; }
+.ps-pattern_stamp{background:url(img/pattern_stamp.gif) no-repeat left; }
+.ps-pen{background:url(img/pen.gif) no-repeat left; }
+.ps-pencil{background:url(img/pencil.gif) no-repeat left; }
+.ps-polly_lasso{background:url(img/polly_lasso.gif) no-repeat left; }
+.ps-polygon{background:url(img/polygon.gif) no-repeat left; }
+.ps-quick{background:url(img/quick.gif) no-repeat left; }
+.ps-rectangle{background:url(img/rectangle.gif) no-repeat left; }
+.ps-rect_marquee{background:url(img/rect_marquee.gif) no-repeat left; }
+.ps-red_eye{background:url(img/red_eye.gif) no-repeat left; }
+.ps-rotate-view{background:url(img/rotate-view.gif) no-repeat left; }
+.ps-rounded_rect{background:url(img/rounded_rect.gif) no-repeat left; }
+.ps-ruler{background:url(img/ruler.gif) no-repeat left; }
+.ps-sharpen{background:url(img/sharpen.gif) no-repeat left; }
+.ps-single_c_marquee{background:url(img/single_c_marquee.gif) no-repeat left; }
+.ps-single_r_marquee{background:url(img/single_r_marquee.gif) no-repeat left; }
+.ps-slice{background:url(img/slice.gif) no-repeat left; }
+.ps-slice_select{background:url(img/slice_select.gif) no-repeat left; }
+.ps-smudge{background:url(img/smudge.gif) no-repeat left; }
+.ps-sponge{background:url(img/sponge.gif) no-repeat left; }
+.ps-spot{background:url(img/spot.gif) no-repeat left; }
+.ps-vert_type{background:url(img/vert_type.gif) no-repeat left; }
+.ps-vert_type_mask{background:url(img/vert_type_mask.gif) no-repeat left; }
+.ps-zoom{background:url(img/zoom.gif) no-repeat left; }
